@@ -1,0 +1,10 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p,article,section,aside,header,hgroup,figure,figcaption,footer,nav,body,fieldset,legend,i,form,button,input /* Reset all the elements*/
+{
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    border-collapse: collapse;
+    }

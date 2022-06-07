@@ -1,0 +1,214 @@
+body   /* alignment for body */
+{
+    text-decoration: none;
+    vertical-align:text-bottom;
+ }
+nav   /*  specific postioning and specs */
+    {
+            display: block;
+            padding:0em;
+            border: solid 1px;
+            background-color: rgb(114, 114, 170);
+            font:black;
+            text-decoration: none;
+    }
+    .navigation
+    {
+      font: grey;
+    }
+    ul   /* specific font */
+  {
+      padding: 1.5em;
+      font: rgb(153, 44, 44);
+  }
+  .skills   /* specifics for div class skills */
+  {
+      padding:10em;
+
+  }
+  .submit
+  {
+    align-items: center;
+    margin: 0;
+    background-color: black;
+  }
+  div   /* box like structure  */
+  {
+     border: solid 1px grey;
+     background-color: rgb(57, 57, 141);
+     padding:0.5em;
+     margin:1em ;
+  }
+  article   /* specifications for article */
+  {
+    background-color : rgb(20, 92, 116);
+    text:bold;
+    font: bold;
+      margin: 100px;
+      box-sizing: 20;
+      border: 10;
+      padding: 10px;
+      }
+      body   /*  background image for the body */
+      {
+          background-image: 
+          url(http://4.bp.blogspot.com/-FyJuSNsRrWs/TibLzmYFU3I/AAAAAAAAK40/0BGwL0v2eyk/s1600/cool%2Bcomputer%2Bbackgrounds-2.jpg);
+         
+      }
+      .addblog   /*  */
+  {
+    
+  }
+   figcaption   /* specific color for figure caption  */
+  {
+    color: lightblue;
+  }
+  
+  footer /* specs for footer */
+    {
+    
+      background-color: rgb(78, 78, 150);
+      position: relative;
+     width:10em;
+      height: max-content;
+      border: width 10px;
+     padding: 0.2em;
+       margin: 60px ;
+    }
+      .clea
+       {
+        padding: 2em;
+        margin: 10;
+        display:flex;
+       }
+       
+    
+    .tit
+    {
+      padding: 2em;
+      margin: 10;
+    }
+    .Blog
+    {
+      padding: 5em;
+      margin:25;
+    }
+  p    /* specific font and specifications for the paragraph */
+  {
+    background-color: rgb(32, 32, 131);
+      height: max-content;
+      border: width 10px;
+      border: solid 1pt rgb(75, 68, 68);
+     padding: 30px;
+       margin: 10px ;
+       font: bold;
+   }
+legend     /* specific font for the legend */
+{
+    font:white;
+    padding: 0.5em;
+}
+  aside    /*  */
+{
+
+  padding: 1.5em;
+}
+a:link     /*  */
+{
+    text-decoration: none;
+    font-size: 1em;
+  }
+  a      /* font for the tag */
+  {
+      padding: 1em;
+      font:bolder;
+  }
+  section     /* Padding for the section */
+  {
+     padding: 5em;
+  }
+  .Ex      /* For div class expereience */
+  {
+    
+    padding: 5em;
+  }
+  .Ed     /* For div class education */
+  {
+      width:400px;
+      height: 150px;
+  } 
+  h1,h2,h3,h4     /* specific font for  the heading */
+  {
+      font:rgb(66, 27, 27);
+      background-color: rgb(36, 36, 114);
+      font-stretch: extra-expanded;
+    font-size: xx-large;
+      padding: 0.5em;
+      top:45%;
+      bottom: 10%;
+      left:45%;
+  }
+  i
+  {
+    font: status-bar;
+    font-stretch: extra-expanded;
+    font-size: xx-large;
+    padding: 1.5em;
+   background-color: rgb(36, 36, 114);
+    top:50%;
+    left:50%;
+  }
+  hr{
+      font: black;
+  }
+  figure   /* specific positions for a figure */
+  {
+    margin: 0;
+    padding: 5px;
+    width: 200px;
+    top:20px;
+   right:100px; 
+
+  }
+  figcaption
+  {
+      font: blue;
+     
+  }
+  button{
+      display:flex;
+     
+      margin: 10px;
+     
+      top:50%;
+      left:50%;
+      
+  }
+  form   /* To attach a specific background color to the form */
+  {
+      
+   background-color: rgb(57, 57, 141);
+   top:50%;
+   left:50%;
+  }
+  fieldset   /* To attach specifications */
+  {
+      padding: 1em;
+      margin-bottom: 45px;
+      font: white;
+      background-color:rgb(20, 92, 116);
+  }
+  
+  .formdata   /* To attach background specifications  */
+  {
+      background-color: rgb(20, 92, 116);
+      padding: 5em;
+  }
+
+  input   /* To attach colors and a specific position   */
+  {
+      background-color: rgb(97, 97, 179);
+      position: relative;
+  }
+  
+  
